@@ -1,0 +1,39 @@
+
+body{
+    background-color: rgb(235, 255, 104);
+}
+
+button{
+  margin: auto;
+  display: block;
+  font-size: 33px;
+  border: solid 5px white;
+  color: white;
+  background-color: rgb(0, 132, 214);
+
+}
+
+button:hover{
+  cursor: pointer;
+  translate: 13px;
+
+  
+}
+
+.pyramid-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .pyramid-row {
+    white-space: nowrap;
+  }
+  
+  .pyramid-block {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    margin: 0 5px;
+  }
+  
