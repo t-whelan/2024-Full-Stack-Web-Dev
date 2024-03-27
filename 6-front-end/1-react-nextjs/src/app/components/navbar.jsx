@@ -8,7 +8,8 @@ const Navbar = () =>{
     {id:2, label:'About', href:"./about"},
     {id:3, label:'Blog', href:"./blog"},
     {id:4, label:'Contact Us', href:"./contact"},
-    {id:5, label:'Dashboard', href:"./dashboard"}
+    {id:5, label:'Dashboard', href:"./dashboard"},
+    {id:6, label:'Products', href:"./products"},
   ]
 
 
